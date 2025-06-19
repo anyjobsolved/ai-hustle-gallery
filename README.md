@@ -1,3 +1,1 @@
-# AI Hustle Gallery
-
-This repository contains the live gallery for AI Hustle OS directory vaults. Managed by Commander Morency.
+Deployment package for Viral Content Machines – AI Hustle OS
